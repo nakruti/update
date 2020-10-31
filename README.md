@@ -7,4 +7,4 @@
 ***
 Установка/Обновление
 =====================
-Скачать .zip | [Скачать](http://webdesign.ru.net)
+[![screenshot of sample](http://f0482823.xsph.ru/23.png)](http://webdesign.ru.net)
